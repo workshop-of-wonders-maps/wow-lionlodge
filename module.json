@@ -1,0 +1,32 @@
+{
+  "id": "wow-dinner-at-lionlodge-lionlodge",
+  "title": "WoW - Dinner at Lionlodge - Lionlodge",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Workshop of Wonders",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "scene",
+      "label": "Lionlodge",
+      "path": "packs/scene",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
